@@ -1,0 +1,1 @@
+# Run-a-regression-on-PctBodyFat2-in-the-stat1.bodyfat2-data-set-to-examine-residuals.
